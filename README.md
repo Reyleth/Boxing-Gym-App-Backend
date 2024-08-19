@@ -1,4 +1,5 @@
-# Boxing_Gym_App_Backend
+# Boxing Gym App Backend
+
 Backend component of T3A2
 
 ## Links
